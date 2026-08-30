@@ -89,5 +89,19 @@
     "createdAt": "2026-08-30T20:26:03.578Z",
     "notified": true,
     "lastKnownUserId": "233986475"
+  },
+  "SAV9-HNF9-B3EE-9HJR": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:26:03.847Z",
+    "notified": true,
+    "lastKnownUserId": "8454867961"
+  },
+  "SAV9-8GPM-QWW3-FPA3": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:26:04.198Z",
+    "notified": true,
+    "lastKnownUserId": "8450450704"
   }
 }
