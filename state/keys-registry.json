@@ -75,5 +75,19 @@
     "createdAt": "2026-08-30T20:25:58.293Z",
     "notified": true,
     "lastKnownUserId": "11051703054"
+  },
+  "SAV9-QNGT-UU8T-YSBP": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:26:03.046Z",
+    "notified": true,
+    "lastKnownUserId": "11316184378"
+  },
+  "SAV9-R9WN-934L-TX2X": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:26:03.578Z",
+    "notified": true,
+    "lastKnownUserId": "233986475"
   }
 }
