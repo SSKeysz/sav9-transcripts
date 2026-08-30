@@ -26,5 +26,19 @@
     "createdAt": "2026-08-30T20:25:56.890Z",
     "notified": true,
     "lastKnownUserId": "11439856818"
+  },
+  "SAV9-G8GH-EJMJ-V4ZC": {
+    "planKey": "30d",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:57.325Z",
+    "notified": true,
+    "lastKnownUserId": "11111175296"
+  },
+  "SAV9-LG6F-VER8-DBNR": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:57.620Z",
+    "notified": true,
+    "lastKnownUserId": "11082651728"
   }
 }
