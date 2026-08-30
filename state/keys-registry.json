@@ -2,106 +2,227 @@
   "SAV9-W4L8-W3MH-6N2H": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:55.987Z",
+    "createdAt": "2026-07-28T22:59:36.823Z",
     "notified": true,
     "lastKnownUserId": "10418346818"
-  },
-  "SAV9-FQT9-VNDP-H54B": {
-    "planKey": "7d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:56.537Z",
-    "notified": true,
-    "lastKnownUserId": "10747680528"
-  },
-  "SAV9-2EYQ-BG8H-TPWB": {
-    "planKey": "7d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:56.886Z",
-    "notified": false,
-    "lastKnownUserId": null
-  },
-  "SAV9-FAGZ-M3YE-5DZY": {
-    "planKey": "1d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:56.890Z",
-    "notified": true,
-    "lastKnownUserId": "11439856818"
-  },
-  "SAV9-G8GH-EJMJ-V4ZC": {
-    "planKey": "30d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:57.325Z",
-    "notified": true,
-    "lastKnownUserId": "11111175296"
-  },
-  "SAV9-LG6F-VER8-DBNR": {
-    "planKey": "life",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:57.620Z",
-    "notified": true,
-    "lastKnownUserId": "11082651728"
-  },
-  "SAV9-L9WE-YJQJ-33UW": {
-    "planKey": "1d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:57.949Z",
-    "notified": true,
-    "lastKnownUserId": "9768836139"
   },
   "SAV9-KM3V-9ALB-H2CX": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:58.281Z",
+    "createdAt": "2026-07-28T22:59:36.836Z",
     "notified": false,
     "lastKnownUserId": "free"
   },
   "SAV9-Y386-ZQUX-Y8P5": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:58.282Z",
+    "createdAt": "2026-07-28T22:59:36.850Z",
     "notified": false,
     "lastKnownUserId": "free"
   },
   "SAV9-G9XJ-C3GC-R3ZU": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:58.284Z",
+    "createdAt": "2026-07-28T22:59:36.864Z",
     "notified": false,
     "lastKnownUserId": "free"
-  },
-  "SAV9-F7LD-3LGN-EFKQ": {
-    "planKey": "life",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:25:58.293Z",
-    "notified": true,
-    "lastKnownUserId": "11051703054"
-  },
-  "SAV9-QNGT-UU8T-YSBP": {
-    "planKey": "1d",
-    "generatedBy": null,
-    "createdAt": "2026-08-30T20:26:03.046Z",
-    "notified": true,
-    "lastKnownUserId": "11316184378"
   },
   "SAV9-R9WN-934L-TX2X": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:26:03.578Z",
+    "createdAt": "2026-07-28T22:59:36.877Z",
     "notified": true,
     "lastKnownUserId": "233986475"
+  },
+  "SAV9-G8GH-EJMJ-V4ZC": {
+    "planKey": "30d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:37.509Z",
+    "notified": true,
+    "lastKnownUserId": "11111175296"
+  },
+  "SAV9-TUGY-MN7B-N95V": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:37.829Z",
+    "notified": true,
+    "lastKnownUserId": "8450450704"
+  },
+  "SAV9-2EYQ-BG8H-TPWB": {
+    "planKey": "7d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:38.121Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-FQT9-VNDP-H54B": {
+    "planKey": "7d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:38.134Z",
+    "notified": true,
+    "lastKnownUserId": "10747680528"
   },
   "SAV9-HNF9-B3EE-9HJR": {
     "planKey": "life",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:26:03.847Z",
+    "createdAt": "2026-07-28T22:59:38.554Z",
     "notified": true,
     "lastKnownUserId": "8454867961"
   },
   "SAV9-8GPM-QWW3-FPA3": {
     "planKey": "1d",
     "generatedBy": null,
-    "createdAt": "2026-08-30T20:26:04.198Z",
+    "createdAt": "2026-07-28T22:59:38.843Z",
     "notified": true,
     "lastKnownUserId": "8450450704"
+  },
+  "SAV9-KLUG-P2Z7-3E5F": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:39.199Z",
+    "notified": true,
+    "lastKnownUserId": "2538018148"
+  },
+  "SAV9-HHXE-U28H-88S7": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-07-28T22:59:43.882Z",
+    "notified": true,
+    "lastKnownUserId": "1354219067"
+  },
+  "SAV9-TGMQ-KSX7-6U6L": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-07-29T02:31:37.224Z",
+    "notified": true,
+    "lastKnownUserId": "1354219067"
+  },
+  "SAV9-RLWV-566H-Y9GF": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-07-29T02:33:08.169Z",
+    "notified": true,
+    "lastKnownUserId": "1354219067"
+  },
+  "SAV9-KHB4-GYD6-PNX2": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1093343146995372042",
+      "discordUsername": "7mkt"
+    },
+    "createdAt": "2026-07-29T02:33:50.093Z",
+    "notified": true,
+    "lastKnownUserId": "1354219067"
+  },
+  "SAV9-QNGT-UU8T-YSBP": {
+    "planKey": "7d",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1093343146995372042",
+      "discordUsername": "7mkt"
+    },
+    "createdAt": "2026-07-31T03:43:34.532Z",
+    "notified": true,
+    "lastKnownUserId": "11316184378"
+  },
+  "SAV9-LG6F-VER8-DBNR": {
+    "planKey": "life",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-03T18:09:29.378Z",
+    "notified": true,
+    "lastKnownUserId": "11082651728"
+  },
+  "SAV9-MS96-5BQL-RGMC": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-08-05T01:37:31.309Z",
+    "notified": true,
+    "lastKnownUserId": "1354219067"
+  },
+  "SAV9-6E8N-KU3R-B3HT": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-05T01:43:38.188Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-8VBZ-BK7T-N2L6": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-05T01:46:49.929Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-W9HZ-P2VZ-AP3F": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-06T00:48:26.084Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-JUK8-HCDH-BE8R": {
+    "planKey": "7d",
+    "generatedBy": null,
+    "createdAt": "2026-08-06T17:15:00.910Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-FAGZ-M3YE-5DZY": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-07T20:42:26.626Z",
+    "notified": true,
+    "lastKnownUserId": "11439856818"
+  },
+  "SAV9-JC8A-SYMP-8TH2": {
+    "planKey": "life",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1517038900273741885",
+      "discordUsername": "2tssd"
+    },
+    "createdAt": "2026-08-07T20:45:02.732Z",
+    "notified": false,
+    "lastKnownUserId": null
+  },
+  "SAV9-L9WE-YJQJ-33UW": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-08-15T12:31:20.259Z",
+    "notified": true,
+    "lastKnownUserId": "9768836139"
+  },
+  "SAV9-F7LD-3LGN-EFKQ": {
+    "planKey": "life",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1517038900273741885",
+      "discordUsername": "2tssd"
+    },
+    "createdAt": "2026-08-15T22:32:02.599Z",
+    "notified": true,
+    "lastKnownUserId": "11051703054"
+  },
+  "SAV9-QW75-KJYD-K854": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-08-21T00:31:27.699Z",
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
