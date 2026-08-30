@@ -40,5 +40,40 @@
     "createdAt": "2026-08-30T20:25:57.620Z",
     "notified": true,
     "lastKnownUserId": "11082651728"
+  },
+  "SAV9-L9WE-YJQJ-33UW": {
+    "planKey": "1d",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:57.949Z",
+    "notified": true,
+    "lastKnownUserId": "9768836139"
+  },
+  "SAV9-KM3V-9ALB-H2CX": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:58.281Z",
+    "notified": false,
+    "lastKnownUserId": "free"
+  },
+  "SAV9-Y386-ZQUX-Y8P5": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:58.282Z",
+    "notified": false,
+    "lastKnownUserId": "free"
+  },
+  "SAV9-G9XJ-C3GC-R3ZU": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:58.284Z",
+    "notified": false,
+    "lastKnownUserId": "free"
+  },
+  "SAV9-F7LD-3LGN-EFKQ": {
+    "planKey": "life",
+    "generatedBy": null,
+    "createdAt": "2026-08-30T20:25:58.293Z",
+    "notified": true,
+    "lastKnownUserId": "11051703054"
   }
 }
