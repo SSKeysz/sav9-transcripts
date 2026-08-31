@@ -20,6 +20,10 @@
       "conta-de-2013": {
         "label": "Conta de 2013",
         "priceCents": 500
+      },
+      "conta-de-2014": {
+        "label": "Conta de 2014",
+        "priceCents": 450
       }
     },
     "panelMessageId": "1544100730552451223"
