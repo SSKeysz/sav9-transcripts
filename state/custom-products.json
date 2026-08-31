@@ -37,5 +37,18 @@
       }
     },
     "panelMessageId": "1543810095316471842"
+  },
+  "teste": {
+    "id": "teste",
+    "name": "teste",
+    "channelId": "1544094366606565428",
+    "createdAt": "2026-08-31T21:19:45.049Z",
+    "plans": {
+      "teste": {
+        "label": "teste",
+        "priceCents": 100
+      }
+    },
+    "panelMessageId": "1544094367650811975"
   }
 }
