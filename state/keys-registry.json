@@ -224,5 +224,16 @@
     "createdAt": "2026-08-21T00:31:27.699Z",
     "notified": false,
     "lastKnownUserId": null
+  },
+  "teste": {
+    "planKey": "1d",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1093343146995372042",
+      "discordUsername": "manual:7mkt"
+    },
+    "createdAt": "2026-08-31T02:38:44.284Z",
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
