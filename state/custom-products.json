@@ -12,6 +12,10 @@
       "conta-2013-com-pacote-spiderman-de-2014": {
         "label": "Conta 2013 com pacote spiderman de 2014",
         "priceCents": 2500
+      },
+      "conta-de-2012": {
+        "label": "Conta de 2012",
+        "priceCents": 500
       }
     },
     "panelMessageId": "1544100730552451223"
