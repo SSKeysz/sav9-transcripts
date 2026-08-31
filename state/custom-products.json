@@ -1,0 +1,15 @@
+{
+  "contas-antigas-roblox": {
+    "id": "contas-antigas-roblox",
+    "name": "CONTAS ANTIGAS ROBLOX",
+    "channelId": "1543809674120405002",
+    "createdAt": "2026-08-31T02:28:29.001Z",
+    "plans": {
+      "vitalicio": {
+        "label": "Vitalicio",
+        "priceCents": 500
+      }
+    },
+    "panelMessageId": "1543809674850078741"
+  }
+}
