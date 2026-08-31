@@ -229,7 +229,7 @@
     "planKey": "1d",
     "generatedBy": null,
     "createdAt": "2026-08-31T21:10:31.089Z",
-    "notified": true,
-    "lastKnownUserId": "11051703054"
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
