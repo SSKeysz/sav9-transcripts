@@ -11,5 +11,18 @@
       }
     },
     "panelMessageId": "1543809674850078741"
+  },
+  "contas-antigas-roblox-2": {
+    "id": "contas-antigas-roblox-2",
+    "name": "🛒⠂CONTAS ANTIGAS ROBLOX",
+    "channelId": "1543809942404866080",
+    "createdAt": "2026-08-31T02:29:33.061Z",
+    "plans": {
+      "conta-de-2011": {
+        "label": "conta de 2011",
+        "priceCents": 500
+      }
+    },
+    "panelMessageId": "1543809943583326339"
   }
 }
