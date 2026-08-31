@@ -7,7 +7,8 @@
     "plans": {
       "conta-2011": {
         "label": "conta 2011",
-        "priceCents": 500
+        "priceCents": 500,
+        "stock": 40
       }
     },
     "panelMessageId": "1544100730552451223"
