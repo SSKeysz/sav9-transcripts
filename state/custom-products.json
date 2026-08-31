@@ -1,1 +1,15 @@
-{}
+{
+  "conta-roblox": {
+    "id": "conta-roblox",
+    "name": "Conta roblox",
+    "channelId": "1544100729369923674",
+    "createdAt": "2026-08-31T21:45:01.952Z",
+    "plans": {
+      "conta-2011": {
+        "label": "conta 2011",
+        "priceCents": 500
+      }
+    },
+    "panelMessageId": "1544100730552451223"
+  }
+}
