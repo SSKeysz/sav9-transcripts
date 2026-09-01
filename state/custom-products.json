@@ -40,5 +40,30 @@
       }
     },
     "panelMessageId": "1544384147076948194"
+  },
+  "reset-id-key": {
+    "id": "reset-id-key",
+    "name": "Reset id key",
+    "channelId": "1544394061983776848",
+    "createdAt": "2026-09-01T17:10:37.902Z",
+    "plans": {
+      "5x-reset-id-key": {
+        "label": "5x Reset id key",
+        "priceCents": 500
+      },
+      "10x-reset-id-key": {
+        "label": "10x Reset id key",
+        "priceCents": 1000
+      },
+      "15x-reset-id-key": {
+        "label": "15x Reset id key",
+        "priceCents": 1500
+      },
+      "20x-reset-id-key": {
+        "label": "20x Reset id key",
+        "priceCents": 2000
+      }
+    },
+    "panelMessageId": "1544394063376031765"
   }
 }
