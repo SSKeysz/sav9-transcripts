@@ -27,5 +27,18 @@
       }
     },
     "panelMessageId": "1544100730552451223"
+  },
+  "rockstar-2fa": {
+    "id": "rockstar-2fa",
+    "name": "Rockstar 2FA",
+    "channelId": "1544384146183561350",
+    "createdAt": "2026-09-01T16:31:13.871Z",
+    "plans": {
+      "rockstar-2fa-100-nova": {
+        "label": "Rockstar 2FA (100% NOVA)",
+        "priceCents": 150
+      }
+    },
+    "panelMessageId": "1544384147076948194"
   }
 }
