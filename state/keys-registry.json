@@ -231,5 +231,16 @@
     "createdAt": "2026-08-31T22:01:49.338Z",
     "notified": false,
     "lastKnownUserId": null
+  },
+  "SAV9-J5NZ-GG2V-T457": {
+    "planKey": "life",
+    "generatedBy": {
+      "type": "revendedor",
+      "discordId": "1517038900273741885",
+      "discordUsername": "2tssd"
+    },
+    "createdAt": "2026-09-01T22:15:53.681Z",
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
