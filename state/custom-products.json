@@ -62,6 +62,10 @@
       "20x-reset-id-key": {
         "label": "20x Reset id key",
         "priceCents": 2000
+      },
+      "reset-id-key-lifetime": {
+        "label": "Reset id key lifetime",
+        "priceCents": 8500
       }
     },
     "panelMessageId": "1544394063376031765"
