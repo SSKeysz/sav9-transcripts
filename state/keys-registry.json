@@ -258,8 +258,8 @@
       "discordUsername": "manual:7mkt"
     },
     "createdAt": "2026-09-02T01:08:06.416Z",
-    "notified": false,
-    "lastKnownUserId": null
+    "notified": true,
+    "lastKnownUserId": "1354219067"
   },
   "SAV9-66ZU-XEWG-VK5F": {
     "planKey": "1d",
