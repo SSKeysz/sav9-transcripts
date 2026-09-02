@@ -240,7 +240,7 @@
       "discordUsername": "2tssd"
     },
     "createdAt": "2026-09-01T22:15:53.681Z",
-    "notified": false,
-    "lastKnownUserId": null
+    "notified": true,
+    "lastKnownUserId": "4057665427"
   }
 }
