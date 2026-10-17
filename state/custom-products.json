@@ -69,5 +69,18 @@
       }
     },
     "panelMessageId": "1544394063376031765"
+  },
+  "controle-remoto-para-pc": {
+    "id": "controle-remoto-para-pc",
+    "name": "Controle Remoto para PC",
+    "channelId": "1561094763879600168",
+    "createdAt": "2026-10-17T19:13:15.810Z",
+    "plans": {
+      "rotacontrol": {
+        "label": "RotaControl",
+        "priceCents": 1500
+      }
+    },
+    "panelMessageId": "1561094891927249038"
   }
 }
