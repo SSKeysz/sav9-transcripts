@@ -295,5 +295,14 @@
     "createdAt": "2026-09-02T15:39:38.915Z",
     "notified": true,
     "lastKnownUserId": "1354219067"
+  },
+  "SAV9-BTTE-YE3Y-EBEK": {
+    "planKey": "7d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-11-16T00:27:16.687Z",
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
