@@ -304,5 +304,14 @@
     "createdAt": "2026-11-16T00:27:16.687Z",
     "notified": false,
     "lastKnownUserId": null
+  },
+  "SAV9-BQT6-YB37-TH8J": {
+    "planKey": "7d",
+    "generatedBy": {
+      "type": "loja"
+    },
+    "createdAt": "2026-11-16T00:27:40.739Z",
+    "notified": false,
+    "lastKnownUserId": null
   }
 }
