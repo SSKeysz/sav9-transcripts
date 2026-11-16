@@ -302,8 +302,8 @@
       "type": "loja"
     },
     "createdAt": "2026-11-16T00:27:16.687Z",
-    "notified": false,
-    "lastKnownUserId": null
+    "notified": true,
+    "lastKnownUserId": "3869075012"
   },
   "SAV9-BQT6-YB37-TH8J": {
     "planKey": "7d",
